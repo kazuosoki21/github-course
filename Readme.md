@@ -2,10 +2,6 @@
 
 # Add Readme.md - Os códigos revisados e testados - OK
 
-# Inserir em negrito
-
-fjdklfkljdfkljalkjfajdkfjalfjld sujeira
-
 Arquivo da aula de Git e Github para iniciantes
 
 Este é um repositório teste para ensinar como o Git funciona.i
