@@ -1,6 +1,6 @@
 # Git Course
 
-# Add Readme.md - Os códigos revisados e testados - OK
+Add Readme.md - Os códigos revisados e testados - OK
 
 Arquivo da aula de Git e Github para iniciantes
 
