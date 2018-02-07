@@ -1,6 +1,6 @@
 # Git Course
 
-# 1o. Add Readme.md
+# 2o. Add Readme.md após modificação
 
 Arquivo da aula de Git e Github para iniciantes
 
