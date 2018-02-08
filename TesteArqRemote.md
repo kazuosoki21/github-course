@@ -1,0 +1,7 @@
+# Arquivo Criado no Github
+
+Este arquivo foi criado no Github 
+Apenas para fazer o teste de funcionamento do Git
+Fim
+
+Fazendo alteração no Repositório Local
